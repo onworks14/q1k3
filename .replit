@@ -1,0 +1,4 @@
+run = "cd q1k3/build && python3 -m http.server"
+
+[nix]
+channel = "stable-22_11"
